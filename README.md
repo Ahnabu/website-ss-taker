@@ -1,0 +1,2 @@
+## this is still not running in frontend
+# you can use it in local machine, you might need to update the selector based on your login type, this will take ss even if the website has a login/authentication system. but you needs to provide user mail and pass 
